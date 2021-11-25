@@ -2,9 +2,9 @@ description: This is a template researchers can walk away with and create their 
 datelastupdated: 25 Nov 2021
 fullnameofperson: Amanda Miotto
 selfIdentification: eResearch Analyst and lover of Science and IT
-colour1: "#006D77"  # sidebar background 
-colour2: "#83C5BE"  # colour of name and desc
-colour3: "#83C5BE"  # colour of Menu links
-colour4: "#EDF6F9" # trying to be background colour - still experimenting 
-colour5: "#E29578" # menu link colour when hover
+colour1: "#555b6e"  # sidebar background 
+colour2: "#bee3db"  # colour of name and desc
+colour3: "#bee3db"  # colour of Menu links
+colour4: "#faf9f9" # background colour
+colour5: "#89b0ae" # menu link colour when hover
 imgfilename: ProfilePhoto.JPG  # name of your profile pic file, stored in assets
