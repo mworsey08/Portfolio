@@ -11,6 +11,8 @@
 | Carpentry Instructor | The Carpentries | 2015 |
 | Agile Business Analysis Foundation Course | DDLS Brisbane | 2018 |
 
+{% include HowIMadeThis.md %}
+
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
