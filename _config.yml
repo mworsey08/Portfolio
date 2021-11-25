@@ -7,3 +7,4 @@ colour2: "#83C5BE"  # colour of name and desc
 colour3: "#83C5BE"  # colour of Menu links
 colour4: "#EDF6F9" # trying to be background colour - still experimenting 
 colour5: "#E29578" # menu link colour when hover
+imgfilename: ProfilePhoto.JPG  # name of your profile pic file, stored in assets
