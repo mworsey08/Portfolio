@@ -7,4 +7,4 @@ colour2: "#bee3db"  # colour of name and desc
 colour3: "#bee3db"  # colour of Menu links
 colour4: "#faf9f9" # background colour
 colour5: "#89b0ae" # menu link colour when hover
-imgfilename: ProfilePhoto.JPG  # name of your profile pic file, stored in assets
+imgfilename: PortfolioPhoto.JPG  # name of your profile pic file, stored in assets
