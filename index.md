@@ -8,7 +8,7 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
 
 #### Publication in Journal of Sports Sciences (Impact factor: 3.337, 12% acceptance rate)
 
-##  Work Experience
+## Work Experience
 
 - **Jun 2021 - Present:       Research assistant at Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE)**
   - Microcontroller firmware development (C, Python, C++, Cypress PSoC Creator)
@@ -33,7 +33,7 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
 
 
 
-##  Education 
+## Education 
 
 
 
@@ -71,7 +71,7 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
 
 
 
-##  Research Experience
+## Research Experience
 
 
 
@@ -95,7 +95,7 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
  
  
 
-##  Grants and Awards
+## Grants and Awards
 
  - 2020
     - Queensland Academy of Sport
@@ -113,7 +113,7 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
     - Griffith Award for Academic Excellence
         - GPA in top 5% of undergraduate students
 
-##  Societies and Committees
+## Societies and Committees
 
 
 
@@ -130,7 +130,7 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
 
 
 
-##  References
+## References
 
 
 
