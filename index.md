@@ -74,7 +74,8 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
   - Novel IMU impact ratio metric in soccer for evaluating performance and safety of headers
   - Monitoring elite rower core-strength and stability using a modified dynamic ergometer and IMU
  
- ## Grants and Awards
+ 
+## Grants and Awards
  - 2020
     - Queensland Academy of Sport
       - Sport performance innovation and knowledge excellence (SPIKE) scholar
@@ -90,7 +91,8 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
  - 2017
     - Griffith Award for Academic Excellence
         - GPA in top 5% of undergraduate students
- ## Societies and Committees
+
+## Societies and Committees
  - International Sports Engineering Association
     - Scientific committee for 2022 conference (review 5 conference papers)
     - Member
