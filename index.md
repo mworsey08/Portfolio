@@ -134,7 +134,7 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
 
 
 
-- Emeritus Professor David Thiel   
+- **Emeritus Professor David Thiel**   
   Primary Supervisor (Ph.D) & Emeritus Professor  
   School of Engineering and Built Environment  
   Griffith University, Nathan Campus  
@@ -142,21 +142,21 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
   Telephone Number (Business): (07) 3735 7192  
   Email: d.thiel@griffith.edu.au  
   
-- Doctor Claudio Pizzolato  
+- **Doctor Claudio Pizzolato**  
   Primary Supervisor (RA) & Senior Lecturer  
   School of Health Sciences and Social Work  
   Griffith Univeristy, Gold Coast Campus  
   1 Parklands Dr, Southport, QLD, 4215  
   Email: c.pizzolato@griffith.edu.au
   
-- Doctor Jonathan Shepherd  
+- **Doctor Jonathan Shepherd**  
   External Supervisor (Ph.D)  
   Adjunct Researcher at Griffith University  
   Head of Performance Research at PING Golf  
   2201 W Desert Cove Ave, Phoenix, AZ 85029, United States    
   Email: jonathans@ping.com  
   
-- Professor Allan Hahn, OAM  
+- **Professor Allan Hahn, OAM**  
   Strategic Advisor, Queensland Academy of Sport  
   Adjunct Professor, University of Canberra and Griffith University  
   Honorary Emeritus Professor, Australian Institute of Sport 
