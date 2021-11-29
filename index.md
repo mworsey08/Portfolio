@@ -8,7 +8,8 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
 
 #### Publication in Journal of Sports Sciences (Impact factor: 3.337, 12% acceptance rate)
 
-## Work Experience
+##  Work Experience
+
 - **Jun 2021 - Present:       Research assistant at Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE)**
   - Microcontroller firmware development (C, Python, C++, Cypress PSoC Creator)
     - I2C, ADC, Bluetooth, Raspberry Pi
@@ -31,7 +32,11 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
 - **September 2018 - June 2019: Math and Physics tutor at Fruition tuition**
 
 
-## Education 
+
+##  Education 
+
+
+
 - **Feb 2018 - present:       Doctor of Philosophy (Ph.D) in Sports and Electronics Engineering, Griffith Univeristy**    
   
     - Supervisors: Emeritus Professor David Thiel, Doctor Hugo Espinosa and Doctor Jonathan Shepherd  
@@ -40,7 +45,13 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
 - **Feb 2014 - Nov 2017:       Bachelor of Engineering with first class honours (BEng. Hons 1st Class)**  
     - GPA: 6.03/7.0
 
+
+
+
 ## Skills and Competencies
+
+
+
 - Machine Learning  
   - Python (scikit-learn), Weka, MATLAB  
 - Practical electronics
@@ -57,7 +68,13 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
   - Electromyography, Optical motion capture, Inertial measurement units, GPS trackers, Force plates  
 
 #### Coursera certification (Credential ID: 8LVRU2BT7894): Machine Learning (Issued Jan 2020)
-## Research Experience
+
+
+
+##  Research Experience
+
+
+
 - **February 2018 - present: PhD Scholar at Griffith Univeristy**
   - Optimise use of wearable inertial measurement units for athlete performance analysis
   - Project management
@@ -72,10 +89,14 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
   - Automatic classification of running surface using IMUs and supervised machine learning
   - Effect of running surface on biomechanical processes recorded by an IMU
   - Novel IMU impact ratio metric in soccer for evaluating performance and safety of headers
-  - Monitoring elite rower core-strength and stability using a modified dynamic ergometer and IMU
+  - Monitoring elite rower core-strength and stability using a modified dynamic ergometer and IMU  
  
  
-## Grants and Awards
+ 
+ 
+
+##  Grants and Awards
+
  - 2020
     - Queensland Academy of Sport
       - Sport performance innovation and knowledge excellence (SPIKE) scholar
@@ -92,7 +113,11 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
     - Griffith Award for Academic Excellence
         - GPA in top 5% of undergraduate students
 
-## Societies and Committees
+##  Societies and Committees
+
+
+
+
  - International Sports Engineering Association
     - Scientific committee for 2022 conference (review 5 conference papers)
     - Member
@@ -103,7 +128,12 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
  - Griffith Univeristy Honours College Alumini 
     - Top 2% of undergraduate students
 
-## References
+
+
+##  References
+
+
+
 - Emeritus Professor David Thiel   
   Primary Supervisor (Ph.D) & Emeritus Professor  
   School of Engineering and Built Environment  
