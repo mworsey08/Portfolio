@@ -1,5 +1,5 @@
 
-{% include sidebar.html %}
+
 
 
 # Matthew Worsey,   2021
