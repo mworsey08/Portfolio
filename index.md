@@ -3,8 +3,9 @@
 
 
 # Matthew Worsey,   2021
-Biomedical and Electronic Engineer: matthewworsey08@gmail.com  
-[Google Scholar Profile](https://scholar.google.com.au/citations?user=j44hvH4AAAAJ&hl=en)
+Biomedical and Electronic Engineer  
+[Email me](matthewworsey08@gmail.com)    
+[Google Scholar Profile](https://scholar.google.com.au/citations?user=j44hvH4AAAAJ&hl=en)  
 
 #### Publication in Journal of Sports Sciences (Impact factor: 3.337, 12% acceptance rate)
 
