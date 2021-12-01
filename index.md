@@ -3,7 +3,7 @@
 
 
 # Matthew Worsey,   2021
-Biomedical and Electronic Engineer 
+Biomedical and Electronic Engineer   
 [Mail me](mailto:matthewworsey08.gmail.com)      
 [Google Scholar](https://scholar.google.com.au/citations?user=j44hvH4AAAAJ&hl=en)  
 
